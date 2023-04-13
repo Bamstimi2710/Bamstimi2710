@@ -4,7 +4,7 @@
 **Bamstimi2710/Bamstimi2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
-I am a Data Analyst<br>I am currently looking out to connect with other analyst<br>I have been building great projects, and analyzing data<br>I can help you draw insights and make data-driven decisions<br>I love collaborating with others to solve problems<br>I am a good team player, always willing to give supports<br>I making observations<br>i love learning new things 
+I am a Data Analyst<br>I am currently looking out to connect with other analyst<br>I have been building great projects, and analyzing data<br>I can help you draw insights and make data-driven decisions<br>I love collaborating with others to solve problems<br>I am a good team player, always willing to give supports<br>I making observations<br>I love learning new things 
 
 
 ## 🌐 Socials:
